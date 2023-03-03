@@ -1,0 +1,200 @@
+@font-face {
+    font-family: Diavlo;
+    src: url(../archivos/Holyfat.ttf);
+}
+body{
+    background-image: url(../archivos/fondo1.jpg);
+    background-size: 87rem;
+    background-position-x:  left;
+    background-position-y: top;
+    background-repeat: no-repeat;
+
+}
+.nav-link{
+    text-decoration: none !important;
+    color: #4CDA00;
+    font-family: Diavlo !important;
+    font-size: 50px;
+    height: 80px !important;    
+}
+.nav-link:hover{
+color: #fff;
+background-color: #4CDA00;
+
+}
+ul{
+    height: 80px !important;
+}
+
+
+.titulo1{
+    color: #4CDA00;
+    text-align: end;
+    font-size: 65px;
+}
+.subtitulo1{
+    color: #4CDA00;
+    font-size: 50px;
+}
+.parrafo1{
+    width: 640px;
+    font-size: 28px;
+    
+    color: #02C6DB;
+}
+#btn1{
+    border-radius: 50%;
+    background-color: #4CDA00;
+    text-align: center;
+    width: 14rem;
+    height: 7rem;
+    font-family: Diavlo;
+    color: #fff;
+    font-size: 55px;
+    margin-left: 12rem;
+}
+#btn1:hover{
+    background-color: #fff;
+    color: #02C6DB;
+    border-color: #4CDA00;
+    cursor: wait;
+}
+.parrafito2{
+    background-color: #4cda00b0;
+    width: 520px;
+    height: 150px;
+    margin: auto;
+    border-color: #4cda00b0 !important;
+    
+}
+.parrafo2{
+    width: 450px;
+    text-align:justify;
+    margin: auto;
+    color: #fff;
+}
+.subtitulito2{
+    background-color: #ffffffde;
+    width: 520px;
+    margin: auto;
+    height: 40px;
+    border-color: #ffffffde !important;
+}
+.subtitulo2{
+    color: #4CDA00;
+    text-align: center;
+    
+}
+.video{
+    width: 400px;
+    height: 200px;
+}
+#carrusel{
+    margin: auto auto auto 230px;
+}
+#carrusel2{
+    width: 600px;
+}
+.subtitulo3{
+    color: #fff;
+    text-align: center;
+    
+}
+.subtitulito3{
+    background-color: #02c5dba1;
+    width: 520px;
+    margin: auto;
+    height: 40px;
+    border-color: #02c5dba1 !important;
+}
+.parrafito3{
+    background-color: #4cda00b0;
+    width: 520px;   
+    height: 150px;
+    margin: auto;
+    border-color: #4cda00b0 !important;
+    
+}
+.parrafo3{
+    width: 450px;
+    text-align:justify;
+    margin: auto;
+    color:#fff;
+    font-size: 20px;
+}
+.parrafo3:hover{
+    color: #02C6DB;
+    cursor: pointer;
+}
+#imgfin{
+    width: 250px !important;
+    margin: auto;
+    cursor: pointer;
+    
+}
+.imgfin:hover{
+    filter: brightness(150%);
+}
+
+.subtitulo4{
+    color: #4CDA00;
+    text-align: center;
+    margin: auto;
+    width: 520px;
+    border-color: #ffffffde !important;
+    background-color: #ffffffde;
+}
+
+
+footer{
+    background-color: #ffffffde;
+    background-size: 100%;
+
+}
+
+.logopie{
+    width: 100%;
+   
+}
+.loguito{
+    margin: auto auto auto 590px;
+    
+}
+.loguito:hover{
+    filter: brightness(150%);
+    cursor: pointer;
+}
+.Texto{
+    text-align: center;
+}
+.Texto:hover{
+    color: #02C6DB;
+    cursor: pointer;
+}
+.redes{
+    display: flex;
+    width: 100px;
+    margin: auto;
+}
+.iconfeibu{
+    width: 40px;
+    margin: auto;
+    
+}
+.iconfeibu:hover{
+    cursor: pointer;
+   
+}
+.iconfeibu2:hover{
+    filter:brightness(300%);
+}
+.instagra2:hover{
+    filter:brightness(300%);
+}
+.instagra{
+    width: 40px;
+    margin: auto;
+}
+.instagra:hover{
+    cursor: pointer;
+}
